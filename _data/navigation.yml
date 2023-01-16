@@ -1,0 +1,5 @@
+main:
+  - title: "Meeting Minutes"
+    url: /meeting_minutes
+  - title: "About"
+    url: /about
