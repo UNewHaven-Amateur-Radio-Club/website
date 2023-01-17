@@ -11,6 +11,8 @@ github_username:  jekyll
 
 # Build settings
 theme: minimal-mistakes-jekyll
+# For GitHub pages
+remote_theme: mmistakes/minimal-mistakes
 minimal_mistakes_skin: "dark"
 # plugins:
 
