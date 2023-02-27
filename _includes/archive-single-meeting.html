@@ -6,7 +6,7 @@
 
 {% assign date_format = site.date_format | default: "%Y-%m-%d" %}
 
-{% if post.id %}
+{% if post.title == "Meeting" %}
   {% assign formated_post_date = post.date | date: date_format %}
   {% assign title = "Meeting Minute for " | append: formated_post_date %}
 {% else %}

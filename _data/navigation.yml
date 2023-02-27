@@ -1,5 +1,9 @@
 main:
+  - title: "Blogs"
+    url: /blog
   - title: "Meeting Minutes"
     url: /meeting_minutes
+  - title: "Equipment"
+    url: /equipment
   - title: "About"
     url: /about

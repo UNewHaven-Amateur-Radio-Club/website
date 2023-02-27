@@ -22,3 +22,9 @@ atom_feed:
   hide: true
 
 include: ["_pages"]
+
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
