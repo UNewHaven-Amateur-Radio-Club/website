@@ -4,8 +4,10 @@ title: About
 permalink: /about/
 ---
 
-<img src="{{site.baseurl}}/assets/img/club_logo.png" alt="Club Logo" width="25%" style="display: block; margin-left: auto; margin-right: auto;">
-<div style="text-align: center;">Latest club logo, revised on 2022-02-27</div>
+<a href="{{site.baseurl}}/assets/img/club_logo.png" target="_blank">
+    <img src="{{site.baseurl}}/assets/img/club_logo.png" alt="Club Logo" width="25%" style="display: block; margin-left: auto; margin-right: auto;">
+</a>
+<div style="text-align: center;">Latest club logo, revised on 2023-02-27</div>
 
 
 # Purpose
@@ -19,3 +21,6 @@ The current officers in charge of the club are:
 
 The Club Trustee is **Mark Morton (W1MEM)**
 
+# Constitution and By-Laws
+As we are a new club, the constitution and by-laws have not been settled on yet.
+You can keep track of the latest revisions of the document in [this Github repo](https://github.com/Electro707/unewhaven_ham_club_constitution)
