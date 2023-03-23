@@ -4,7 +4,7 @@ title: UNewHaven Amateur Radio Club
 email: amateur_radio@newhaven.edu
 description: >- # this means to ignore newlines until "baseurl:"
   This is the webpage for the University of New Haven's Amateur Radio Club
-baseurl: "/website" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://amateurradio.newhaven.edu" # the base hostname & protocol for your site, e.g. http://example.com
 domain: "amateurradio.newhaven.edu"
 twitter_username: jekyllrb
