@@ -23,7 +23,8 @@ We currently own and operate with the following radios:
     - For any receive-only uses
 
 ## Antennas
-Our main antenna used to be an MFJ-1481, but unfortunately that came down with a wind storm. We are in the process of purchasing and installing a new HF antenna.
+Our main antenna used to be an MFJ-1481, but unfortunately that came down with a wind storm.
+We are in the process of purchasing and installing a new HF antenna, which will be the XR5 9-element Yagi from InnovAntennas
 
 We also have a Diamond D130J discone for a VHF and UHF, and a Nooelec GOES satellite dish for GOES16 reception (currently unused due to interference issues, which will be an eventual fox-hunt).
 
@@ -32,5 +33,5 @@ The Club also has access to the following equipment if needed per request:
 - Agilent N9310A RF Signal Generator
 - Agilent N9320B Spectrum Analyzer
 - Multiple N201 USRP
-- (soon) RFSoC 4x2 Kit
+- RFSoC 4x2 Kit
 
