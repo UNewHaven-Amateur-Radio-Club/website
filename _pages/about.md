@@ -7,7 +7,7 @@ permalink: /about/
 <a href="{{site.baseurl}}/assets/img/club_logo.png" target="_blank">
     <img src="{{site.baseurl}}/assets/img/club_logo.png" alt="Club Logo" width="25%" style="display: block; margin-left: auto; margin-right: auto;">
 </a>
-<div style="text-align: center;">Latest club logo, revised on 2023-02-27</div>
+<div style="text-align: center;">Latest club logo</div>
 
 
 # Purpose
@@ -19,7 +19,9 @@ The current officers in charge of the club are:
 - Vice-President: To be determined
 - Secretary: To be determined
 
-The Club Trustee is **Mark Morton (W1MEM)**
+The Club Trustee is **Mark Morton (W1MEM)**, reachable at [mmorton@newhaven.edu](mailto:mmorton@newhaven.edu)
+
+The current web maintainer is **Jamal Bouajjaj (KC1GCZ)**, reachable at [jbouajjaj@newhaven.edu](mailto:jbouajjaj@newhaven.edu)
 
 # Constitution and By-Laws
 As we are a new club, the constitution and by-laws have not been settled on yet.

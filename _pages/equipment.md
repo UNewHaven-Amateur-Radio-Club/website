@@ -18,20 +18,19 @@ We currently own and operate with the following radios:
 - G90 Radios
     - Used for any portable uses and for it's excellent tuner
 - UT-2000A Antenna Tuner
-    - An ol' school tuner which does wonders, none of this modern auto-tuner rubbish
+    - An ol' school tuner which does wonders, none of this modern auto-tuner rubbish ;)
 - AirSpy HF
     - For any receive-only uses
 
 ## Antennas
-Our main antenna used to be an MFJ-1481, but unfortunately that came down with a wind storm.
-We are in the process of purchasing and installing a new HF antenna, which will be the XR5 9-element Yagi from InnovAntennas
+Our main HF antenna is XR5 9-element Yagi from InnovAntennas, 20ft on top of Buckman Hall rotatable with an MFJ rotator.
 
-We also have a Diamond D130J discone for a VHF and UHF, and a Nooelec GOES satellite dish for GOES16 reception (currently unused due to interference issues, which will be an eventual fox-hunt).
+We also have a Diamond D130J discone for a VHF and UHF, and a Nooelec GOES satellite dish for GOES16 reception (currently unused due to unknown interference issues).
 
-## Misc Equipment
-The Club also has access to the following equipment if needed per request:
+## Reasearch Equipment
+The Club has access to the following equipment which are geared towards RF research.
 - Agilent N9310A RF Signal Generator
 - Agilent N9320B Spectrum Analyzer
 - Multiple N201 USRP
 - RFSoC 4x2 Kit
-
+They must be requested from the Club Trustee.
