@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 ---
 
-<a href="{{site.baseurl}}/assets/img/club_logo.png" target="_blank">
-    <img src="{{site.baseurl}}/assets/img/club_logo.png" alt="Club Logo" width="25%" style="display: block; margin-left: auto; margin-right: auto;">
+<a href="{{site.url}}/assets/img/club_logo_white.png" target="_blank">
+    <img src="{{site.url}}/assets/img/club_logo_white.png" alt="Club Logo" width="25%" style="display: block; margin-left: auto; margin-right: auto;">
 </a>
 <div style="text-align: center;">Latest club logo</div>
 
